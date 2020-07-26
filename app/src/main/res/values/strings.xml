@@ -1,0 +1,17 @@
+<resources>
+    <!-- It's useless if erased -->
+    <string name="app_name">ActivityLifecycleVm</string>
+    <!-- Layout attributes -->
+    <string name="btn_log_clear">ログをクリア</string>
+    <!-- Change from code -->
+    <string name="txt_state_create">onCreateが呼び出されました。</string>
+    <string name="txt_state_start">onStartが呼び出されました。</string>
+    <string name="txt_state_resume">onResumeが呼び出されました。</string>
+    <string name="txt_state_pause">onPauseが呼び出されました。</string>
+    <string name="txt_state_stop">onStopが呼び出されました。</string>
+    <string name="txt_state_destory">onDestroyが呼び出されました。</string>
+    <string name="txt_state_save">onSaveInstanceStateが呼び出されました。</string>
+    <string name="txt_state_restore">onRestoreInstanceStateが呼び出されました。</string>
+    <string name="txt_state_recreate">Activityが破棄されて再作成されました。</string>
+    <string name="txt_save_log">Logを保存しました。</string>
+</resources>
